@@ -7,6 +7,7 @@ enter a, b, c and it will calculate surface, volume and scopp.
 #requerments
 
 numpy
+pyfiglet
 
 sorry for bad readme file
 
